@@ -117,3 +117,18 @@ inoremap <silent> <C-j> <esc>
 
 " set tag file load
 set tags=tags;/
+
+" file encoding detection
+set encoding=utf-8
+set fileencodings=sjis,utf-8
+
+" for Norman layout
+noremap y h
+noremap n j
+noremap i k
+noremap o l
+noremap h i
+noremap j y
+noremap k o
+noremap l n
+
