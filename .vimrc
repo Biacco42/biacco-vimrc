@@ -132,3 +132,7 @@ noremap j y
 noremap k o
 noremap l n
 
+noremap <C-w>y <C-w>h
+noremap <C-w>n <C-w>j
+noremap <C-w>i <C-w>k
+noremap <C-w>o <C-w>l
